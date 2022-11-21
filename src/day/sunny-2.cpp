@@ -30,7 +30,7 @@ int main(){
    }
     if (age>64)
    {
-    cout<<"you are a old."<<endl;
+    cout<<"you are an old."<<endl;
    }
 
     return 0;
